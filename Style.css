@@ -1,0 +1,43 @@
+
+
+
+
+/*-----------------Main Content----------------*/
+.h1{
+    font-style: italic;
+}
+.parent{
+
+    position:fixed;
+    color:rgb(255, 255, 255);
+    background-color: rgb(131, 185, 3);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 70px;
+    text-align: center;
+    
+    
+}
+
+
+.main-bg{
+    text-shadow: rgb(15, 15, 0);
+    color:rgb(147, 199, 5);
+    background-image: url(Images/fruits-vegetables.jpg);
+    background-color: black;
+    background-position: center;
+    width: 500px
+
+}
+
+
+
+/*--------------Site Title------------*/
+main.site-title{
+    background-image:url("Images/indoors.jpg");
+    background-size: auto;
+    height: 110vh;
+}
+/*------x-------Site Title-----x------*/
+
+/*--------x--------Main Content-------x--------*/
